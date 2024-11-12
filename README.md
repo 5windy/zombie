@@ -11,4 +11,4 @@
 ![클래스 다이어그램](https://github.com/5windy/zombie/blob/main/resources/class%20diagram.png)
 
 > #### Demo
-![데모영상](https://github.com/5windy/zombie/blob/main/resources/demo.gif)
+<img src="https://github.com/5windy/zombie/blob/main/resources/demo.gif" width="400px">
