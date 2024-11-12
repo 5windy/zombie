@@ -8,4 +8,7 @@
 게임의 컨셉은 여기에 설명글을 3~5줄정도 작성.
 
 > #### Class Diagram
-![클래스 다이어그램]()
+![클래스 다이어그램](https://github.com/5windy/zombie/blob/main/resources/class%20diagram.png)
+
+> #### Demo
+![데모영상](https://github.com/5windy/zombie/blob/main/resources/demo.gif)
